@@ -1,0 +1,55 @@
+	.image{
+		    position: relative;
+    		overflow: hidden;
+    		padding: 16px;
+	}
+	.image header{
+		/*padding: 100px;*/
+		position: relative;
+	/*	z-index: 2;*/
+	}
+	.image section{
+		left: 200px;
+		right: 500px;
+		position: fixed;
+		font-size: 20px;
+	}
+	.image img{
+		opacity:0.6;
+		position: fixed;
+		left: 0;
+    top: 0;
+    width: 100%;
+    height:auto;
+	}
+	.image li{
+		display: inline-block;
+		position: relative;
+		padding: 10px;
+		left: 200px;
+	}
+	.transfer{
+		position: relative;
+		padding: 10px;
+		font-size: 20px;
+	}
+	.heading{
+		margin-top: 1px;
+		position: relative;
+		padding: 5px;
+		font-size: 25px;
+	}
+	.table{
+		position: relative;
+		/*padding: 5px;*/
+		font-size: 25px;
+		margin-top: -20px;
+	}
+	.head{
+		position: relative;
+		font-size: 20px;
+	}
+	.bank, .tag{
+		text-align:center;
+		color:black;
+	}
